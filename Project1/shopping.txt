@@ -1,0 +1,10 @@
+lemon,7
+pumpkin,12
+sugar,2
+tea,2
+flour,1
+onion,10
+garlic,9
+potatoes,30
+rgewgerg,22
+rrrrrrrrrrt,1
